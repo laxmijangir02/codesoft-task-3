@@ -18,4 +18,4 @@ Once the password is generated, the program prints the generated password.
 #### Password Length: Users can specify the length, and the program ensures that the password is sufficiently complex.
 #### Security: The program warns the user if they try to generate a password shorter than 6 characters.
 
-This simple password generator can be a handy tool for creating secure passwords for various applications!
+### This simple password generator can be a handy tool for creating secure passwords for various applications!
